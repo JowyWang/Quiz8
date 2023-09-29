@@ -15,9 +15,9 @@ This code uses ```python```to draw graphs based on Fourier transform. Also compa
 
 ## reference link:
 
-[about fourier transform](https://www.jezzamon.com/fourier/index.html.)<br>
+[about fourier transform](https://www.jezzamon.com/fourier/index.html.)
 https://www.jezzamon.com/fourier/index.html<br>
-[code reference 1](https://github.com/VacantHusky/Fourier-2dLine-drawing/blob/main/fourier_data.py)<br>
+[code reference 1](https://github.com/VacantHusky/Fourier-2dLine-drawing/blob/main/fourier_data.py)
 https://github.com/VacantHusky/Fourier-2dLine-drawing/blob/main/fourier_data.py<br>
-[code reference 2](https://github.com/luzhixing12345/image-FFT/blob/main/README.md)<br>
+[code reference 2](https://github.com/luzhixing12345/image-FFT/blob/main/README.md)
 https://github.com/luzhixing12345/image-FFT/blob/main/README.md<br>
