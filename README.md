@@ -1,5 +1,6 @@
 # Quiz8
-### JoeyWang
+studentname:JoeyWang<br>
+Unikey:ywan8892 <br>
 ## part1:
 The image technique I have chosen is based on the Fourier transform of a plotting function. It started when I saw a drawing like this on a video site</br>
 ![Fourier transform Image 1](Image/Img1.png)<br>
