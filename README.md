@@ -2,7 +2,7 @@
 studentname: JoeyWang<br>
 Unikey: ywan8892 <br>
 ## part1:
-The image technique I have chosen is based on the **Fourier transform** of a plotting function. It started when I saw a drawing like this on a video site</br>
+The image technique I have chosen is based on the <font color=red>Fourier transform</font> of a plotting function. It started when I saw a drawing like this on a video site</br>
 ![Fourier transform Image 1](Image/Img1.png)<br>
 This drawing uses multiple trajectory circles to draw a simple graph. After some searching, I found that this method utilises the Fourier Transform and the end result can even look something like this<br>
 ![Fourier transform Image 2](Image/Img2.png)<br>
